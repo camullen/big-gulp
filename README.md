@@ -1,6 +1,8 @@
 # big gulp
 Opinionated gulp build environment for front-end web development that uses browserify, babel, and browser-sync to create a streamlined development process with minimal (or no) additional configuration required
 
+Shout out to [Wes Bos](https://github.com/wesbos) for the original [gulpfile](https://github.com/wesbos/React-For-Beginners-Starter-Files/blob/master/01%20-%20Introduction%20-%20Start%20Here/gulpfile.js)
+
 ## Getting Started
 big gulp has only __one__ hard dependendy, gulp. Yep. That's it. All other requirements are lazily installed automatically.
 
