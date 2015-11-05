@@ -1,0 +1,24 @@
+{
+  "name": "big-gulp",
+  "version": "0.0.1",
+  "description": "Gulp-based web front end build boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camullen/big-gulp.git"
+  },
+  "author": "Cameron Mullen (cam@skio.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camullen/big-gulp/issues"
+  },
+  "homepage": "https://github.com/camullen/big-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
