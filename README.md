@@ -91,6 +91,17 @@ development: &defaults
     # Include sourcemaps
     sourcemaps: true
 
+    # Gulp plugins configuration
+    #  - Will attempt to auto-install all of these plugins
+    #  - Will run plugins in order (except those that are sourcemaps compatible - those get run last)
+    #  - Options can be passed like so:
+    #     
+    #     plugins:
+    #         -module-with-no-options
+    #         module-with-configuration-options:
+    #           optionA: valueA
+    #           optionB: valueB
+    #             
     plugins:
       - gulp-uglify
 ```
